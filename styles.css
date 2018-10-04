@@ -1,0 +1,226 @@
+/*css forbecs */
+
+/*
+html {
+
+	background:#f5f5f5 ;
+}
+
+
+* {
+   margin: 0;
+   padding: 0;
+  }
+  .imgbox {
+   display: grid;
+   height: 100%;
+  }
+  .center-fit {
+   max-width: 100%;
+   max-height: 100%;
+   margin: auto;
+   width: 100vw;
+   height: auto;
+  }*/
+
+  body {
+
+  	
+  	background-color: #e5e5e5;
+background-repeat: no-repeat;
+background-size: auto;
+  }
+
+/*body { padding: 0px; margin: 0px;}*/
+/*div { padding: 0px; margin: 0px; }*/
+
+
+.container{
+
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.parent {
+  
+
+  position: absolute;
+  overflow: hidden;
+  margin:  0 auto;
+  
+  
+}
+/* header png*/
+.image1 {
+  position: absolute;
+left: 10px;
+top: 3px;
+background-color: transparent;
+border: none;
+}
+
+/*banner*/
+.image2 {
+     position: absolute;
+    margin: 0 auto;
+    left: 0%;
+    width: 1348px;
+    top: 0%;
+    border: none;
+    background-color: transparent;
+
+}
+
+
+.styled{
+
+position: relative;
+top: 3px;
+left: 133px;
+border: none;
+background-color: transparent;
+}
+
+
+.image3{
+
+	position: absolute;
+	left: 81px;
+	top: 11px;
+}
+
+#styled2{
+
+	background-color: transparent;
+border: none;
+position: absolute;
+margin: 0 auto;
+left: 72px;
+top: 65px;
+}
+
+.image4 {
+     background-color: transparent;
+border: none;
+position: absolute;
+margin: 0 auto;
+top: 64px;
+left: 79px;
+
+}
+
+.firstbox *{
+
+}
+
+#t1{
+
+ position: absolute;
+font-family: 'Open Sans', sans-serif;
+width: 454px;
+text-align: center;
+top: 666px;
+font-size: 14.5pt;
+line-height: 19.7pt;
+letter-spacing: 0pt;
+word-spacing: 0.5pt;
+font-weight: 20;
+left: 440px;
+
+}
+
+.image5{
+
+position: absolute;
+border: none;
+background-color: transparent;
+top: 66px;
+left: 79px;
+}
+
+.whitebox {
+   margin: 0 auto;
+width: 100%;
+height: 100%;
+}
+
+.image6{
+	left: 79px;
+position: absolute;
+border: none;
+background-color: transparent;
+top: 341px;
+}
+
+.image7{
+	background-color: transparent;
+border: none;
+position: absolute;
+left: 71px;
+top: 67px;
+margin: 0 auto;
+}
+
+#t2{
+
+	position: absolute;
+font-family: 'Open Sans', sans-serif;
+top: 902px;
+left: 454px;
+font-size: 22pt;
+font-weight: 700;
+text-align: center;
+width: 445px;
+
+}
+
+.image8{
+background-color: transparent;
+border: none;
+position: absolute;
+top: 90px;
+left: 86px;
+}
+
+.image9{
+background-color: transparent;
+border: none;
+position: absolute;
+top: 90px;
+left:74px;
+}
+#styled3{
+
+	
+	
+border: none;
+position: absolute;
+margin: 0 auto;
+left: 72px;
+top: 65px;
+}
+
+.image10 {
+background-color: transparent;
+border: none;
+position: absolute;
+top: 90px;
+left:79px;
+
+}
+.image11 {
+background-color: transparent;
+border: none;
+position: absolute;
+top: 110px;
+left:79px;
+
+}
+
+.image12 {
+background-color: transparent;
+    border: none;
+    position: absolute;
+    top: 3050px;
+    left: 125px;
+}
